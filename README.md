@@ -17,22 +17,26 @@ A Portfolio/Resume website template for Programmers, Geeks, Developers, Hackers 
 “Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.”
 
 #### Preview Tab
-![Preview Tab](https://user-images.githubusercontent.com/56648155/141693131-97e12b41-0123-49c6-b5a1-f6d51d650659.png)
+![Preview](https://user-images.githubusercontent.com/56648155/147666222-92cb042c-cce3-4e99-a21f-e4206ba0f0d6.png)
 
 #### About Tab
-![About Tab](https://user-images.githubusercontent.com/56648155/141724871-0d356210-31b0-4056-bec9-5c6e5c5298fc.png)
+![About](https://user-images.githubusercontent.com/56648155/147665966-ad29a768-f715-4ba2-9a89-4ed7edd08d34.png)
 
 #### Skills Tab
-![Skills Tab](https://user-images.githubusercontent.com/56648155/141724868-1e65caa5-53dd-408f-b384-5984b6011de2.png)
+![Skill](https://user-images.githubusercontent.com/56648155/147666192-564d92f1-03c5-48c8-a6bb-0fec1b18f4bb.png)
 
 #### Service Tab
-![Service](https://user-images.githubusercontent.com/56648155/141724869-fcc37896-7f62-4fcd-9d90-7ed1ddd9f57b.png)
+![Serviece](https://user-images.githubusercontent.com/56648155/147666168-460b7b04-edaa-4adc-b73b-1f222ee4651e.png)
+
 
 #### Contact Tab
-![Contact Tab](https://user-images.githubusercontent.com/56648155/141724866-c73f5e64-93c6-425d-8916-bef08292fa5c.png) 
+![Contact](https://user-images.githubusercontent.com/56648155/147666066-0dd833e3-2414-453f-a485-017c47671b7d.png)
+
+## Color--Theme
+![Color-Theme](https://user-images.githubusercontent.com/56648155/147666020-d4e6d125-4183-4d66-a4b5-2e0992e52c82.png)
 
 ### Demo
-For Demo of this template you can visit https://nazir-hussain.github.io/Responsive-Portffolio1/
+For Demo of this template you can visit https://nazir-hussain.github.io/Portfolio-with-theme/
 
 ### Quick Start
 If you are reading this then I will assume that you know something about code and want to make a resume website of yours then this open-source project may help you setup it to showcase all your creations without effort.
@@ -48,5 +52,4 @@ Any and all contributions, issues, features and tips are welcome.
 **Portfolio-Template** is licence under [MIT v3.0 license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ### Contact
-
 For any Suggestion / Ideas ping me at [@Nazir Hussain](https://www.instagram.com/nazir__hassan/)
