@@ -32,7 +32,7 @@ A Portfolio/Resume website template for Programmers, Geeks, Developers, Hackers 
 #### Contact Tab
 ![Contact](https://user-images.githubusercontent.com/56648155/147666066-0dd833e3-2414-453f-a485-017c47671b7d.png)
 
-## Color--Theme
+### Color-Theme
 ![Color-Theme](https://user-images.githubusercontent.com/56648155/147666020-d4e6d125-4183-4d66-a4b5-2e0992e52c82.png)
 
 ### Demo
