@@ -22,7 +22,7 @@ A Portfolio/Resume website template for Programmers, Geeks, Developers, Hackers 
 #### About Tab
 ![About](https://user-images.githubusercontent.com/56648155/147665966-ad29a768-f715-4ba2-9a89-4ed7edd08d34.png)
 
-#### Education Tab
+#### 🥇Education Tab
 ![Skill](https://user-images.githubusercontent.com/56648155/147666192-564d92f1-03c5-48c8-a6bb-0fec1b18f4bb.png)
 
 #### Service Tab
